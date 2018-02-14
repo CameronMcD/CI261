@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gja10/Desktop/2017_18_A1-UTweenManager/libs/tween-engine-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1361b8688e3d289cb55b1b61e589a4e8a4422b36">
+        <dex dex="/Users/gja10/Desktop/2017_18_A1-UTweenManager/android/build/intermediates/pre-dexed/debug/tween-engine-api_19dfd884c3fce8544287da6e590223130989fdc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gja10/Desktop/2017_18_A1-UTweenManager/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d2f77a837b67b26af949bcf84da6d129ef0f1e6">
+        <dex dex="/Users/gja10/Desktop/2017_18_A1-UTweenManager/android/build/intermediates/pre-dexed/debug/core-1.0_fb8de9a8ee82e468c9cea62ec089ac50298e1547.jar" />
+    </item>
+
+</items>
